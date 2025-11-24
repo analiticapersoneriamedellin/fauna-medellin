@@ -3,7 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Análisis de Fauna Silvestre - Medellín", layout="wide")
 
-st.title("📊 Análisis de Fauna Silvestre (2017–2025)")
+st.title("Análisis de Fauna Silvestre (2017–2025)")
 st.write("Aplicación interactiva para explorar la base de datos de fauna silvestre atendida en Medellín.")
 
 # --- CARGA DE ARCHIVO ---
