@@ -3,6 +3,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Análisis de Fauna Silvestre - Medellín", layout="wide")
 
+st.image("https://www.personeriamedellin.gov.co/wp-content/uploads/2023/08/logo_personeria_20243-768x219.png", width=300)
 st.title("Análisis de Fauna Silvestre (2017–2025)")
 st.write("Aplicación interactiva para explorar la base de datos de fauna silvestre atendida en Medellín.")
 
